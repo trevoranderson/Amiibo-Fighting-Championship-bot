@@ -1,0 +1,10 @@
+{
+  "name": "AmiiboFightingChampionship",
+  "version": "0.0.0",
+  "description": "AmiiboFightingChampionship",
+  "main": "app.js",
+  "author": {
+    "name": "trevor",
+    "email": ""
+  }
+}
